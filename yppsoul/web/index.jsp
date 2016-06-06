@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>hell ypp</title>
+    <title>hello ypp</title>
   </head>
   <body>
-  Hello yppsoul !
+  <h1>Hello yppsoul !</h1>
   </body>
 </html>
